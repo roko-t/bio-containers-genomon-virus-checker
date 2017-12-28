@@ -5,7 +5,7 @@
 # Use ubuntu as a parent image
 FROM ubuntu:16.04
 
-MAINTAINER Hiroko Tanaka <htrokoroko@gmail.com>
+MAINTAINER Hiroko Tanaka <hiroko@hgc.jp>
 
 ENV PYTHON_VERSION 2.7.14
 
